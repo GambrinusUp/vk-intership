@@ -1,0 +1,419 @@
+{
+  "records": [
+    {
+      "id": "1",
+      "fullName": "Иван Иванов",
+      "email": "ivan.ivanov@example.com",
+      "age": 30,
+      "city": "Москва",
+      "isActive": true,
+      "phoneNumber": "+79261234567"
+    },
+    {
+      "id": "2",
+      "fullName": "Анна Смирнова",
+      "email": "anna.smirnova@example.com",
+      "age": 27,
+      "city": "Санкт-Петербург",
+      "isActive": false,
+      "phoneNumber": "+79161234567"
+    },
+    {
+      "id": "3",
+      "fullName": "Петр Петров",
+      "email": "p.petrov@example.com",
+      "age": 45,
+      "city": "Новосибирск",
+      "isActive": true,
+      "phoneNumber": "+79031234567"
+    },
+    {
+      "id": "4",
+      "fullName": "Мария Сидорова",
+      "email": "maria.sid@example.com",
+      "age": 34,
+      "city": "Екатеринбург",
+      "isActive": false,
+      "phoneNumber": "+79211234567"
+    },
+    {
+      "id": "5",
+      "fullName": "Алексей Волков",
+      "email": "a.volkov@example.com",
+      "age": 39,
+      "city": "Казань",
+      "isActive": true,
+      "phoneNumber": "+79371234567"
+    },
+    {
+      "id": "6",
+      "fullName": "Ольга Лебедева",
+      "email": "olga.leb@example.com",
+      "age": 26,
+      "city": "Нижний Новгород",
+      "isActive": false,
+      "phoneNumber": "+79501234567"
+    },
+    {
+      "id": "7",
+      "fullName": "Дмитрий Кузнецов",
+      "email": "d.kuznetsov@example.com",
+      "age": 31,
+      "city": "Челябинск",
+      "isActive": true,
+      "phoneNumber": "+79621234567"
+    },
+    {
+      "id": "8",
+      "fullName": "Елена Морозова",
+      "email": "elena.morozova@example.com",
+      "age": 28,
+      "city": "Самара",
+      "isActive": true,
+      "phoneNumber": "+79081234567"
+    },
+    {
+      "id": "9",
+      "fullName": "Николай Зайцев",
+      "email": "nik.zaytsev@example.com",
+      "age": 35,
+      "city": "Ростов-на-Дону",
+      "isActive": true,
+      "phoneNumber": "+79261231234"
+    },
+    {
+      "id": "10",
+      "fullName": "Юлия Орлова",
+      "email": "y.orlova@example.com",
+      "age": 32,
+      "city": "Уфа",
+      "isActive": false,
+      "phoneNumber": "+79091234567"
+    },
+    {
+      "id": "11",
+      "fullName": "Сергей Павлов",
+      "email": "s.pavlov@example.com",
+      "age": 37,
+      "city": "Красноярск",
+      "isActive": true,
+      "phoneNumber": "+79771234567"
+    },
+    {
+      "id": "12",
+      "fullName": "Алена Кузьмина",
+      "email": "alena.k@example.com",
+      "age": 29,
+      "city": "Воронеж",
+      "isActive": true,
+      "phoneNumber": "+79991234567"
+    },
+    {
+      "id": "13",
+      "fullName": "Владимир Мельников",
+      "email": "v.melnikov@example.com",
+      "age": 41,
+      "city": "Пермь",
+      "isActive": true,
+      "phoneNumber": "+79851234567"
+    },
+    {
+      "id": "14",
+      "fullName": "Татьяна Фролова",
+      "email": "t.frolova@example.com",
+      "age": 33,
+      "city": "Краснодар",
+      "isActive": false,
+      "phoneNumber": "+79651234567"
+    },
+    {
+      "id": "15",
+      "fullName": "Артем Соколов",
+      "email": "a.sokolov@example.com",
+      "age": 36,
+      "city": "Саратов",
+      "isActive": true,
+      "phoneNumber": "+79181234567"
+    },
+    {
+      "id": "16",
+      "fullName": "Евгения Васильева",
+      "email": "e.vasilieva@example.com",
+      "age": 30,
+      "city": "Тюмень",
+      "isActive": false,
+      "phoneNumber": "+79311234567"
+    },
+    {
+      "id": "17",
+      "fullName": "Константин Егоров",
+      "email": "k.egorov@example.com",
+      "age": 38,
+      "city": "Ижевск",
+      "isActive": true,
+      "phoneNumber": "+79491234567"
+    },
+    {
+      "id": "18",
+      "fullName": "Наталья Григорьева",
+      "email": "n.grig@example.com",
+      "age": 31,
+      "city": "Барнаул",
+      "isActive": true,
+      "phoneNumber": "+79021234567"
+    },
+    {
+      "id": "19",
+      "fullName": "Руслан Богданов",
+      "email": "r.bogdanov@example.com",
+      "age": 40,
+      "city": "Ульяновск",
+      "isActive": false,
+      "phoneNumber": "+79131234567"
+    },
+    {
+      "id": "20",
+      "fullName": "Инна Максимова",
+      "email": "inna.m@example.com",
+      "age": 26,
+      "city": "Иркутск",
+      "isActive": true,
+      "phoneNumber": "+79241234567"
+    },
+    {
+      "id": "21",
+      "fullName": "Михаил Семёнов",
+      "email": "m.semenov@example.com",
+      "age": 29,
+      "city": "Томск",
+      "isActive": true,
+      "phoneNumber": "+79111234567"
+    },
+    {
+      "id": "22",
+      "fullName": "Светлана Дорофеева",
+      "email": "sveta.d@example.com",
+      "age": 27,
+      "city": "Омск",
+      "isActive": false,
+      "phoneNumber": "+79251234567"
+    },
+    {
+      "id": "23",
+      "fullName": "Григорий Ковалёв",
+      "email": "g.kovalyov@example.com",
+      "age": 42,
+      "city": "Курган",
+      "isActive": true,
+      "phoneNumber": "+79201234567"
+    },
+    {
+      "id": "24",
+      "fullName": "Алина Яковлева",
+      "email": "alin.yakov@example.com",
+      "age": 25,
+      "city": "Кемерово",
+      "isActive": true,
+      "phoneNumber": "+79031231234"
+    },
+    {
+      "id": "25",
+      "fullName": "Леонид Александров",
+      "email": "l.alexandrov@example.com",
+      "age": 33,
+      "city": "Ярославль",
+      "isActive": false,
+      "phoneNumber": "+79551234567"
+    },
+    {
+      "id": "26",
+      "fullName": "Дарья Владимирова",
+      "email": "d.vladimirova@example.com",
+      "age": 28,
+      "city": "Пенза",
+      "isActive": true,
+      "phoneNumber": "+79881234567"
+    },
+    {
+      "id": "27",
+      "fullName": "Аркадий Белов",
+      "email": "a.belov@example.com",
+      "age": 36,
+      "city": "Тула",
+      "isActive": true,
+      "phoneNumber": "+79101234567"
+    },
+    {
+      "id": "28",
+      "fullName": "Ксения Афанасьева",
+      "email": "k.afanasyeva@example.com",
+      "age": 29,
+      "city": "Волгоград",
+      "isActive": false,
+      "phoneNumber": "+79141234567"
+    },
+    {
+      "id": "29",
+      "fullName": "Валерий Романов",
+      "email": "v.romanov@example.com",
+      "age": 34,
+      "city": "Сочи",
+      "isActive": true,
+      "phoneNumber": "+79901234567"
+    },
+    {
+      "id": "30",
+      "fullName": "Нина Сергеева",
+      "email": "n.sergeeva@example.com",
+      "age": 31,
+      "city": "Махачкала",
+      "isActive": true,
+      "phoneNumber": "+79191234567"
+    },
+    {
+      "id": "31",
+      "fullName": "Артём Кузьмин",
+      "email": "a.kuzmin@example.com",
+      "age": 28,
+      "city": "Чита",
+      "isActive": true,
+      "phoneNumber": "+79631234567"
+    },
+    {
+      "id": "32",
+      "fullName": "Екатерина Соколова",
+      "email": "e.sokolova@example.com",
+      "age": 30,
+      "city": "Киров",
+      "isActive": false,
+      "phoneNumber": "+79041234567"
+    },
+    {
+      "id": "33",
+      "fullName": "Василий Иванов",
+      "email": "v.ivanov@example.com",
+      "age": 43,
+      "city": "Смоленск",
+      "isActive": true,
+      "phoneNumber": "+79271234567"
+    },
+    {
+      "id": "34",
+      "fullName": "Ольга Тарасова",
+      "email": "o.tarasova@example.com",
+      "age": 26,
+      "city": "Тамбов",
+      "isActive": true,
+      "phoneNumber": "+79811234567"
+    },
+    {
+      "id": "35",
+      "fullName": "Максим Ефимов",
+      "email": "m.efimov@example.com",
+      "age": 37,
+      "city": "Брянск",
+      "isActive": false,
+      "phoneNumber": "+79171234567"
+    },
+    {
+      "id": "36",
+      "fullName": "Наталья Кудрявцева",
+      "email": "n.kudryavtseva@example.com",
+      "age": 32,
+      "city": "Рязань",
+      "isActive": true,
+      "phoneNumber": "+79531234567"
+    },
+    {
+      "id": "37",
+      "fullName": "Игорь Беляев",
+      "email": "i.belyaev@example.com",
+      "age": 35,
+      "city": "Псков",
+      "isActive": true,
+      "phoneNumber": "+79661234567"
+    },
+    {
+      "id": "38",
+      "fullName": "Юлия Волкова",
+      "email": "y.volkova@example.com",
+      "age": 29,
+      "city": "Владимир",
+      "isActive": false,
+      "phoneNumber": "+79331234567"
+    },
+    {
+      "id": "39",
+      "fullName": "Денис Морозов",
+      "email": "d.morozov@example.com",
+      "age": 31,
+      "city": "Кострома",
+      "isActive": true,
+      "phoneNumber": "+79441234567"
+    },
+    {
+      "id": "40",
+      "fullName": "Алина Васильева",
+      "email": "alinav@example.com",
+      "age": 27,
+      "city": "Ялта",
+      "isActive": true,
+      "phoneNumber": "+79281234567"
+    }
+  ],
+  "metadata": {
+    "fields": [
+      {
+        "code": "fullName",
+        "description": "Полное имя",
+        "type": "string",
+        "required": true,
+        "order": 1,
+        "min": 1,
+        "max": 255
+      },
+      {
+        "code": "email",
+        "description": "Email",
+        "type": "email",
+        "required": true,
+        "order": 2,
+        "max": 320
+      },
+      {
+        "code": "age",
+        "description": "Возраст",
+        "type": "number",
+        "required": false,
+        "order": 3,
+        "min": 0,
+        "max": 150
+      },
+      {
+        "code": "city",
+        "description": "Город",
+        "type": "string",
+        "required": true,
+        "order": 4,
+        "min": 1,
+        "max": 100
+      },
+      {
+        "code": "isActive",
+        "description": "Активен",
+        "type": "boolean",
+        "required": false,
+        "order": 5
+      },
+      {
+        "code": "phoneNumber",
+        "description": "Номер телефона",
+        "type": "string",
+        "required": true,
+        "order": 6,
+        "min": 7,
+        "max": 20
+      }
+    ]
+  }
+}
