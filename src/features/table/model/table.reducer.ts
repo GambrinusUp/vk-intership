@@ -56,7 +56,9 @@ const tableSlice = createSlice({
         state.error = undefined;
       })
       .addCase(createRecord.fulfilled, (state, { payload }) => {
-        state.records = [...state.records, payload];
+        if (!state.nextPage) {
+          state.records = [...state.records, payload];
+        }
         state.error = undefined;
       })
       .addCase(createRecord.rejected, (state, { payload }) => {
