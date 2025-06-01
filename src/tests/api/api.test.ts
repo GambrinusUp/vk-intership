@@ -27,7 +27,7 @@ describe('Table API', () => {
         fields: [
           {
             code: 'fullName',
-            description: 'Полное имя',
+            description: 'ФИО',
             type: 'string',
             required: true,
             order: 1,
